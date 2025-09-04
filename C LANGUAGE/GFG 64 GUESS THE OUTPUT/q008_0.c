@@ -1,0 +1,32 @@
+//-----simple example-----
+#include <stdio.h>
+void main()
+{
+    switch (printf("haai"))
+    {
+    case 1:
+        printf("hyderabad\n");
+        break;
+    case 2:
+        printf("bangalore\n");
+        break;
+    case 3:
+        printf("chennai\n");
+        break;
+    case 4:
+        printf("Bombay\n");
+        break;
+    default:
+        printf("Delhi\n");
+        break;
+    }
+}
+
+/* options
+A. haai
+B. 4
+C. haaibomaby
+D. Compiler Error
+*/
+
+// Output : haaiBombay

@@ -1,3 +1,4 @@
+// Q1.
 #include<stdio.h>
 # define x 5+2
 int main(){
@@ -9,6 +10,10 @@ int main(){
     
     return 0;
 }
+
+
+// A. 343   B. 27   C. Compiler Error   D. 21
+
 
 // output : i = 27
 /*
