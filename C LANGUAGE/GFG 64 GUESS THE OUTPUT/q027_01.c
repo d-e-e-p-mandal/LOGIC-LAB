@@ -10,6 +10,7 @@ int main(){
 
 // Output : 18
 
+
 /*Explanation :
 10 + 010 (0 in prefix means it is octal)
 10 + 8

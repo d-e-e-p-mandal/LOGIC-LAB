@@ -15,3 +15,9 @@ int main(){
     }
     return 0;
 }
+
+/* Ans :
+hello
+namaste
+Bye
+*/
