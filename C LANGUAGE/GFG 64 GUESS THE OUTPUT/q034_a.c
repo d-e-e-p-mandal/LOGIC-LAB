@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    float me = 8.177;
-    double you = 8.177;
+    float me = 8.2;
+    double you = 8.2;
 
     if(me == you)
         printf("My principal is idiot\n");
